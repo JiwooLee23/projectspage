@@ -28,7 +28,7 @@ nav:after{
 	display:table;
 	clear:both;}
 nav ul{
-	float:center;
+	float:right;
 	padding:0;
 	margin:0;
 	list-style: none;
