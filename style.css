@@ -58,7 +58,7 @@ nav ul ul li {
 @media all and (max-width:768px){}
 #logo{
   display:block;
-	padding:0;
+	padding: 7px 30px;
 	width: 100%;
 	text-align:center;
 	float: none;}
